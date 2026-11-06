@@ -1,0 +1,18 @@
+# Versions testées avec Python 3.14.10
+# Installation : pip install -r requirements.txt
+
+# Données et calcul
+pandas==3.1.1
+numpy==2.5.4
+scipy==1.18.1
+
+# Machine learning
+scikit-learn==1.9.1
+
+# Graphiques
+matplotlib==3.11.2
+
+# Exécution des notebooks
+jupyter==1.1.1
+ipykernel==7.4.0
+nbconvert==7.17.2
